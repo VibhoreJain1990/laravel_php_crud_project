@@ -1,4 +1,4 @@
-I am vibhore jain a 6year experience php and javascript developer, I have created a project for the company Rapifuzz using laravel, project name is incident management system.
+I am vibhore jain a 6year experience php and javascript developer, I have created a project for the company using laravel, project name is incident management system.
 ![image](https://github.com/VibhoreJain1990/Rapifuzz_laravel_php_crud_project/assets/57622257/ef9e4b40-e842-45d0-8307-0f83f46ecb1e)
 ![image](https://github.com/VibhoreJain1990/Rapifuzz_laravel_php_crud_project/assets/57622257/6f2fc13f-863a-4a26-a34b-e7755b36af3a)
 ![image](https://github.com/VibhoreJain1990/Rapifuzz_laravel_php_crud_project/assets/57622257/92d289e4-e5eb-414d-9732-f6de8f31af80)
